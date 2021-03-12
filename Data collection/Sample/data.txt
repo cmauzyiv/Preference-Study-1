@@ -1,0 +1,171 @@
+
+phase = 1
+trial = 1
+target = 295
+FA
+295
+points = 100
+
+phase = 1
+trial = 2
+target = 192
+FA
+192
+points = 220
+
+phase = 1
+trial = 3
+target = 200
+FA
+200
+points = 320
+
+phase = 2
+trial = 4
+target = 234
+Alternative 1
+242
+points = 420
+
+phase = 2
+trial = 5
+target = 331
+Alternative 2
+171
+points = 530
+
+phase = 2
+trial = 6
+target = 462
+Alternative 1
+70
+points = 630
+
+phase = 2
+trial = 7
+target = 240
+Alternative 2
+139
+points = 720
+
+phase = 2
+trial = 8
+target = 150
+Alternative 1
+173
+points = 850
+
+phase = 2
+trial = 9
+target = 96
+Alternative 2
+93
+points = 960
+
+phase = 3
+trial = 10
+target = 3
+Alternative 1
+427
+Alternative 1 Total
+427
+Alternative 2
+42
+Alternative 2 Total
+42
+points = 5650
+
+phase = 3
+trial = 11
+target = 5
+Alternative 2
+385
+Alternative 2 Total
+427
+Alternative 1 Total
+427
+points = 9500
+
+phase = 2
+trial = 12
+target = 143
+Alternative 1
+196
+points = 9620
+
+phase = 2
+trial = 13
+target = 74
+Alternative 2
+183
+points = 9730
+
+phase = 2
+trial = 14
+target = 8
+Alternative 1
+185
+points = 9870
+
+phase = 2
+trial = 15
+target = 9
+Alternative 2
+291
+points = 9990
+
+phase = 2
+trial = 16
+target = 47
+Alternative 1
+257
+points = 10090
+
+phase = 2
+trial = 17
+target = 29
+Alternative 2
+237
+points = 10240
+
+phase = 4
+trial = 18
+target = 38
+Alternative 1
+110
+points = 10240
+
+phase = 4
+trial = 19
+target = 58
+Alternative 2
+178
+points = 10240
+
+phase = 4
+trial = 20
+target = 15
+Alternative 1
+45
+points = 10240
+
+phase = 4
+trial = 21
+target = 17
+Alternative 2
+88
+points = 10240
+
+phase = 4
+trial = 22
+target = 25
+Alternative 1
+129
+points = 10240
+
+phase = 4
+trial = 23
+target = 20
+Alternative 2
+155
+points = 10240
